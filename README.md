@@ -5,4 +5,4 @@ Both this code and the blog post were created collaboratively with Josh Rosenber
 
 # Running the server
 To run this server, call `npm run server` in the terminal from any directory.
-For a self-restarting server using Nodemon, call `npm run dev' instead.
+For a self-restarting server using Nodemon, call `npm run dev` instead.
